@@ -1,0 +1,23 @@
+# Data manipulation
+
+pandas
+numpy
+
+# Data visualization
+
+matplotlib
+seaborn
+
+# Machine learning
+
+scikit-learn
+xgboost
+
+# Jupyter Notebook
+
+jupyter
+ipykernel
+
+# Dataset download (if using KaggleHub)
+
+kagglehub
